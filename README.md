@@ -1,9 +1,12 @@
 # 👋 Hi there, I'm Dhruv Gupta
 ## 🚀 Full Stack Web Developer | MERN Stack | CSE Graduate
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guptadhruv1901&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guptadhruv1901&layout=compact&theme=default)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=guptadhruv1901.guptadhruv1901)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=guptadhruv1901&show_icons=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptadhruv1901&layout=compact&theme=default" height="150"/>
+  <br/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=guptadhruv1901.guptadhruv1901" height="25"/>
+</div>
 
 ---
 
@@ -15,19 +18,19 @@ A results-driven and technically proficient web developer with hands-on experien
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" alt="MongoDB"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="20" alt="Express"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="React"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="20" alt="NodeJS"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20" alt="MySQL"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20" alt="Firebase"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="Git"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="20" alt="Shell"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="32"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32"/>
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="32"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" height="32"/>
+  <img src="https://img.shields.io/badge/Wix%20Velo-000?style=for-the-badge&logo=wix&logoColor=white" height="32"/>
+  <img src="https://img.shields.io/badge/Framer%20Motion-EAEAEA?style=for-the-badge&logo=framer&logoColor=black" height="32"/>
 </p>
-
-
 
 ---
 
